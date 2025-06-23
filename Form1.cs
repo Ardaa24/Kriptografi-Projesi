@@ -115,7 +115,7 @@ namespace KriptografiProjesi
             {
                 Process.Start(new ProcessStartInfo
                 {
-                    FileName = "https://www.instagram.com/_arda24/",
+                    FileName = "#",
                     UseShellExecute = true
                 });
                 popupForm.Close();
