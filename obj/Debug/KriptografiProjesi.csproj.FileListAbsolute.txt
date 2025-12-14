@@ -1,0 +1,17 @@
+D:\testarea\KriptografiProjesi\KriptografiProjesi\bin\Debug\KriptografiProjesi.exe.config
+D:\testarea\KriptografiProjesi\KriptografiProjesi\bin\Debug\KriptografiProjesi.exe
+D:\testarea\KriptografiProjesi\KriptografiProjesi\bin\Debug\KriptografiProjesi.pdb
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.csproj.AssemblyReference.cache
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.Form1.resources
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.Properties.Resources.resources
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.Resource1.resources
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.csproj.GenerateResource.cache
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.csproj.CoreCompileInputs.cache
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.exe
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.pdb
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.UControl.encryptor_UControl.resources
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.UControl.decryptor_ucontrol.resources
+D:\testarea\KriptografiProjesi\KriptografiProjesi\bin\Debug\KriptografiProjesi.exe.manifest
+D:\testarea\KriptografiProjesi\KriptografiProjesi\bin\Debug\KriptografiProjesi.application
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.exe.manifest
+D:\testarea\KriptografiProjesi\KriptografiProjesi\obj\Debug\KriptografiProjesi.application
